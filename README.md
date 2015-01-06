@@ -1,6 +1,6 @@
 Prueba
 ======
 
-Reprocitorio de Prueba
-
 Hola mundo
+=======
+Repositorio de Prueba
