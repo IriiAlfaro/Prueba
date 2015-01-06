@@ -1,4 +1,4 @@
 Prueba
 ======
 
-Reprocitorio de Prueba
+Repositorio de Prueba
